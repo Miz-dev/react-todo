@@ -1,2 +1,2 @@
-# react-todo
+# react-greeting
 Created with CodeSandbox
